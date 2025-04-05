@@ -32,3 +32,8 @@ To evaluate the model’s performance:
 - The **predicted book rankings** were compared to the **actual book ratings**.
 - The actual ratings were sorted in **decreasing order** to establish the **ground-truth ranking**.
 - The **Normalized Discounted Cumulative Gain (NDCG)** metric was used to measure the quality of the predicted rankings.
+
+
+# Colab Link
+
+```https://colab.research.google.com/drive/1BWaG4F4piLNSSbPKbounJAj0v_FSzqQY?usp=sharing```
